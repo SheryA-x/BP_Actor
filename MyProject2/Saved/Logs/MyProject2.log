@@ -4029,3 +4029,34 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.01.30-17.32.49:959][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
 [2024.01.30-17.32.50:031][966]LogPlayLevel: Display: Destroying online subsystem :Context_55
 [2024.01.30-17.32.54:987][294]LogSlate: Took 0.005685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.30-17.34.50:431][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.01.30-17.34.50:432][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Saved/Autosaves/Game/Untitled_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.01.30-17.34.50:441][136]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Untitled_Auto4
+[2024.01.30-17.34.50:441][136]LogSavePackage: Moving 'C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Saved/Untitled_Auto455721A9E4234A7630E7132ADD337B3E5.tmp' to 'C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Saved/Autosaves/Game/Untitled_Auto4.umap'
+[2024.01.30-17.34.50:477][136]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Saved/Autosaves/Game/Untitled_Auto4.umap is in the /Temp path, will not scan.
+[2024.01.30-17.34.50:478][136]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Untitled_Auto4 is in the /Temp path, will not scan.
+[2024.01.30-17.34.50:478][136]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Untitled_Auto4 is in the /Temp path, will not scan.
+[2024.01.30-17.34.50:478][136]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.070
+[2024.01.30-17.34.50:478][136]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2024.01.30-17.34.50:478][136]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/ActorBP] ([2] browsable assets)...
+[2024.01.30-17.34.50:616][136]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/ActorBP.ActorBP]
+[2024.01.30-17.34.50:616][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/ActorBP]
+[2024.01.30-17.34.50:617][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/ActorBP" FILE="C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Saved/Autosaves/Game/BP/ActorBP_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.01.30-17.34.50:626][136]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/ActorBP_Auto4
+[2024.01.30-17.34.50:627][136]LogSavePackage: Moving 'C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Saved/ActorBP_Auto44A263E1141E68103A35F6E9DCDB3860B.tmp' to 'C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Saved/Autosaves/Game/BP/ActorBP_Auto4.uasset'
+[2024.01.30-17.34.50:628][136]LogFileHelpers: Auto-saving content packages took 0.150
+[2024.01.30-17.36.16:051][394]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.01.30-17.36.16:052][394]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.01.30-17.36.23:409][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.30-17.36.23:480][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.30-17.36.23:512][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.30-17.36.23:522][ 12]LogSavePackage: Moving output files for package: /Game/Untitled
+[2024.01.30-17.36.23:522][ 12]LogSavePackage: Moving 'C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Saved/Untitled436A7FB343FC9E495BDAFC8598603BE4.tmp' to 'C:/Users/mstrr/OneDrive/Документы/Unreal Projects/MyProject2/Content/Untitled.umap'
+[2024.01.30-17.36.23:530][ 12]LogFileHelpers: Saving map 'Untitled' took 0.049
+[2024.01.30-17.36.23:547][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms
+[2024.01.30-17.36.23:549][ 12]AssetCheck: New page: Asset Save: Untitled
+[2024.01.30-17.36.23:549][ 12]LogContentValidation: Display: Validating /Script/Engine.World /Game/Untitled.Untitled
+[2024.01.30-17.36.29:833][475]LogSlate: Window 'ActorBP' being destroyed
+[2024.01.30-17.36.29:839][475]LogSlate: Window 'ActorBP' being destroyed
+[2024.01.30-17.36.29:842][475]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.30-17.36.29:842][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
